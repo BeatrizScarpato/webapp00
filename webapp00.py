@@ -1,6 +1,6 @@
 # myFirstStreamlitApp.py
   
-#import the library  # vai precisar colocar st na frente de todos os comandos, é o comando da bilioteca 
+#import the library  # vai precisar colocar st na frente de todos os comandos, é o comando da biblioteca 
 import streamlit as st
   
 # Use st.title("") para adicionar um TÍTULO ao seu Web app
