@@ -7,7 +7,7 @@ import streamlit as st
 st.title("SADALE")
 
 # Use st.header("") para adicionar um CABEÇALHO ao seu Web app
-st.header("A MAIOR FÁBRICADO BRASIL!!!")
+st.header("A MAIOR FÁBRICA DO BRASIL!!!")
 
 # Use st.subheader("") para adicionar um SUB CABEÇALHO ao seu Web app
 st.subheader("Conte-nos, qual tipo de tecido você gostaria?")
